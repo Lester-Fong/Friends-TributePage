@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+.main-container {
+  background: #eee;
+  margin: 20px 30px;
+  border-radius: 10px;
+}
+
+.small-container {
+  margin: 20px 40px;
+  text-align: justify;
+  border-style: dashed;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 3em;
+}
+
+.title h1 {
+  font-size: 5em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.title h2 {
+  margin-top: 20px;
+  font-size: 3em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.title h3 {
+  margin-top: 15px;
+  font-size: 2em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.pic-container {
+  margin: 1.5em;
+  text-align: center;
+  border-style: double;
+}
+
+img {
+  width: 50%;
+  border-radius: 50%;
+  margin-top: 2em;
+}
+
+.text {
+  margin: 2em 21em 5px;
+  background: rgba(180, 139, 139, 0.425);
+  border-radius: 8px;
+}
+
+.text ul li {
+  display: inline;
+  margin: 1em;
+  font-weight: 600;
+}
+
+.timeline {
+  margin: 20px 40px;
+  font-size: 1.2em;
+  padding-bottom: 20px;
+}
+
+.born ul {
+  margin-top: 17px;
+}
+
+.born ul li {
+  margin-left: 50px;
+  margin-bottom: 7px;
+}
+
+.italic {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  margin-left: 30px;
+}
